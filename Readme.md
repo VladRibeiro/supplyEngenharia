@@ -1,8 +1,9 @@
 Piramide de Testes
+
 Testes e Métricas de Software
 
 
-Introdução a Qualidade de Software. Métrica de Softwares. Verificação e validação. Fundamentos de Testes. Projeto de Testes. Automação dos testes. Fases de Testes
+Introdução a Qualidade de Software, Métrica de Softwares, Verificação e validação. Fundamentos de Testes, Automação e Fases de Testes
 
 Premissas :
 
@@ -13,7 +14,9 @@ Aplicar técnicas de verificação e validação de software.
 Elaborar documentação de teste.
 Depurar e testar software.
 Aplicar técnicas de automatização de testes.
-Conteúdos Formativos:
+
+Conteúdos Formativos para tomada de decisão:
+
 Introdução a Qualidade de Software
 
 Conceito, Fatores e Padrões.
@@ -34,7 +37,8 @@ Medidas de Software
 
 Medidas Orientadas ao Tamanho.
 
-Processo de teste
+Processo de testes:
+
 Explratórios
 End-to-End
 Componente
@@ -80,18 +84,4 @@ Referências Básicas
 
 Qualidade de software: teoria e prática. Time de Arquitetura @totvs 2022.
 
-MOLINARI, Leonardo. Teste de Software. 2ª Edição, São Paulo, Érica, 2007.
 
-Referências complementares:
-
-ibqts Instituto Brasileiro de Qualidade e Teste de Software - Syllabus©!IBQTS®
-
-BARTIÉ, Alexandre. Garantia da Qualidade de Software. 1ª Edição, Rio de Janeiro, Campus, 2002.
-
-MOLINARI, Leonardo. Teste de software: : produzindo sistemas melhores e mais confiáveis. 3ª Edição, São Paulo, Érica, 2006.
-
-RIOS, Emerson. Análise de riscos em projetos de teste de software. Rio de Janeiro, Alta Books, 2005.
-
-PRESSMAN, Roger.** Engenharia de Software**. 7ª Edição, São Paulo, Makron Books, 2011.
-
-RIOS, Emerson; MOREIRA FILHO, Trayahú. Teste de software. 2ª Edição, Rio de Janeiro,Alta Books, 2006.
