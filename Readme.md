@@ -6,3 +6,5 @@
 #
 # Changes to be committed:
 #	new file:   Bem-vindo/Playbooks/Geral/Testes
+# Pirâmide de Testes:
+# Uma boa estratégia para automação de testes na prática.
